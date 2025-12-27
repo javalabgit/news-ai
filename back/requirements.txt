@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-multipart
+jinja2
+requests
+python-dotenv
+feedparser
+cachetools
+PyJWT
+pydantic
+crewai
+langchain
+langchain-google-genai
+google-generativeai
+typing-extensions
